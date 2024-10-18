@@ -3,7 +3,7 @@ pkgdown: 2.1.1
 pkgdown_sha: ~
 articles:
   migrate: migrate.html
-last_built: 2024-10-18T00:10Z
+last_built: 2024-10-18T00:12Z
 urls:
   reference: http://docs.jimbrig.com/migrate/reference
   article: http://docs.jimbrig.com/migrate/articles
