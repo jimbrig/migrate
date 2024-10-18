@@ -6,13 +6,22 @@ Authors@R:
            comment = c(ORCID = "0000-0002-7489-8787"))
 Description: Provides a database migration framework for R.
 License: MIT + file LICENSE
+URL: https://github.com/jimbrig/migrate, http://docs.jimbrig.com/migrate/
+BugReports: https://github.com/jimbrig/migrate/issues
+Imports: 
+    DBI,
+    rlang,
+    RPostgres
+Suggests: 
+    knitr,
+    rmarkdown,
+    spelling,
+    testthat (>= 3.0.0)
+VignetteBuilder: 
+    knitr
+Config/testthat/edition: 3
+Config/testthat/parallel: true
 Encoding: UTF-8
 Language: en-US
 Roxygen: list(markdown = TRUE)
 RoxygenNote: 7.3.2
-Suggests: 
-    knitr,
-    rmarkdown
-VignetteBuilder: knitr
-URL: https://github.com/jimbrig/migrate
-BugReports: https://github.com/jimbrig/migrate/issues
