@@ -1,3 +1,17 @@
 ^migrate\.Rproj$
 ^\.Rproj\.user$
 ^dev$
+^LICENSE\.md$
+^README\.Rmd$
+^codecov\.yml$
+^\.covrignore$
+^\.lintr$
+^\.gitattributes$
+^\.editorconfig$
+^codemeta\.json$
+^\.github$
+^CHANGELOG\.md$
+^_pkgdown\.yml$
+^docs$
+^pkgdown$
+^examples$
