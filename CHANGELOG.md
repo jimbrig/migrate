@@ -8,6 +8,7 @@
 
 ## Features
 
+- Rename github workflows ([b75821c](https://github.com/jimbrig/migrate/commit/b75821cf92648218383b2e706c1b12ddff7854e4))  - (Jimmy Briggs)
 - Bulk update ([f8746a2](https://github.com/jimbrig/migrate/commit/f8746a2513b53a5b61755c5434b499d7cb18cc7e))  - (Jimmy Briggs)
 
 ***
